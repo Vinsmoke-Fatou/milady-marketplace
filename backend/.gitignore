@@ -1,0 +1,12 @@
+# Variables d'environnement — ne JAMAIS commiter
+.env
+
+# Dépendances Node.js
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers système
+.DS_Store
