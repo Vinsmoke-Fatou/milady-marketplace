@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-platform-frontend",
+  "version": "0.1.0",
+  "description": "Interface React pour la plateforme e-commerce sénégalaise",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
